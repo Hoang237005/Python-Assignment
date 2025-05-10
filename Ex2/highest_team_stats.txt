@@ -1,0 +1,76 @@
+Teams with the Highest Mean Scores for Each Statistic
+================================================
+
+Statistic: Match Played, Team: Liverpool, Mean Value: 25.19
+Statistic: Starts, Team: Brentford, Mean Value: 18.33
+Statistic: Minutes, Team: Liverpool, Mean Value: 1643.10
+Statistic: Goals, Team: Liverpool, Mean Value: 3.81
+Statistic: Assists, Team: Liverpool, Mean Value: 2.86
+Statistic: Yellow Cards, Team: Bournemouth, Mean Value: 3.87
+Statistic: Red Cards, Team: Arsenal, Mean Value: 0.23
+Statistic: xG, Team: Liverpool, Mean Value: 3.68
+Statistic: xAG, Team: Liverpool, Mean Value: 2.68
+Statistic: PrgC, Team: Manchester City, Mean Value: 41.64
+Statistic: PrgP, Team: Liverpool, Mean Value: 83.95
+Statistic: PrgR, Team: Liverpool, Mean Value: 83.05
+Statistic: Gls/90, Team: Manchester City, Mean Value: 0.18
+Statistic: Ast/90, Team: Liverpool, Mean Value: 0.14
+Statistic: xG/90, Team: Aston Villa, Mean Value: 0.19
+Statistic: xAG/90, Team: Chelsea, Mean Value: 0.15
+Statistic: SoT%, Team: Nott'ham Forest, Mean Value: 39.05
+Statistic: SoT/90, Team: Bournemouth, Mean Value: 0.54
+Statistic: G/Sh, Team: Arsenal, Mean Value: 0.14
+Statistic: Dist, Team: Nott'ham Forest, Mean Value: 19.12
+Statistic: Total_Cmp, Team: Liverpool, Mean Value: 807.14
+Statistic: Total_Cmp%, Team: Manchester City, Mean Value: 86.50
+Statistic: TotDist, Team: Liverpool, Mean Value: 13712.95
+Statistic: Short_Cmp%, Team: Manchester City, Mean Value: 92.13
+Statistic: Medium_Cmp%, Team: Manchester City, Mean Value: 89.52
+Statistic: Long_Cmp%, Team: Liverpool, Mean Value: 60.28
+Statistic: KP, Team: Liverpool, Mean Value: 22.43
+Statistic: 1/3, Team: Liverpool, Mean Value: 69.57
+Statistic: PPA, Team: Liverpool, Mean Value: 19.05
+Statistic: CrsPA, Team: Fulham, Mean Value: 4.50
+Statistic: (Passing)PrgP, Team: Liverpool, Mean Value: 83.95
+Statistic: SCA, Team: Liverpool, Mean Value: 50.81
+Statistic: SCA90, Team: Liverpool, Mean Value: 2.62
+Statistic: GCA, Team: Liverpool, Mean Value: 6.52
+Statistic: GCA90, Team: Liverpool, Mean Value: 0.33
+Statistic: Tkl, Team: Crystal Palace, Mean Value: 33.14
+Statistic: TklW, Team: Crystal Palace, Mean Value: 19.62
+Statistic: Att, Team: Liverpool, Mean Value: 28.95
+Statistic: Lost, Team: Crystal Palace, Mean Value: 14.14
+Statistic: Blocks, Team: Brentford, Mean Value: 21.19
+Statistic: Sh, Team: Brentford, Mean Value: 8.71
+Statistic: Pass, Team: Crystal Palace, Mean Value: 14.90
+Statistic: Int, Team: Bournemouth, Mean Value: 14.39
+Statistic: Touches, Team: Liverpool, Mean Value: 1139.43
+Statistic: Def Pen, Team: Brentford, Mean Value: 145.57
+Statistic: Def 3rd, Team: Brentford, Mean Value: 366.48
+Statistic: Mid 3rd, Team: Liverpool, Mean Value: 513.48
+Statistic: Att 3rd, Team: Manchester City, Mean Value: 353.40
+Statistic: Att Pen, Team: Liverpool, Mean Value: 57.38
+Statistic: Take-Ons_Att, Team: Arsenal, Mean Value: 30.59
+Statistic: Succ%, Team: Liverpool, Mean Value: 54.80
+Statistic: Tkld%, Team: Leicester City, Mean Value: 48.30
+Statistic: Carries, Team: Manchester City, Mean Value: 664.68
+Statistic: PrgDist, Team: Manchester City, Mean Value: 2051.96
+Statistic: Carries_PrgC, Team: Manchester City, Mean Value: 41.64
+Statistic: Carries_1/3, Team: Manchester City, Mean Value: 31.16
+Statistic: CPA, Team: Manchester City, Mean Value: 14.48
+Statistic: Mis, Team: Nott'ham Forest, Mean Value: 23.68
+Statistic: Dis, Team: Newcastle Utd, Mean Value: 17.96
+Statistic: Rec, Team: Liverpool, Mean Value: 798.24
+Statistic: Receiving_PrgR, Team: Liverpool, Mean Value: 83.05
+Statistic: Fls, Team: Bournemouth, Mean Value: 20.52
+Statistic: Fld, Team: Newcastle Utd, Mean Value: 18.22
+Statistic: Off, Team: Nott'ham Forest, Mean Value: 3.77
+Statistic: Crs, Team: Fulham, Mean Value: 37.91
+Statistic: Recov, Team: Bournemouth, Mean Value: 73.22
+Statistic: Won, Team: Brentford, Mean Value: 27.52
+Statistic: (Misc)Lost, Team: Crystal Palace, Mean Value: 28.19
+Statistic: Won%, Team: Brentford, Mean Value: 54.89
+Statistic: GA90, Team: Manchester Utd, Mean Value: 2.65
+Statistic: Save%, Team: Bournemouth, Mean Value: 80.00
+Statistic: CS%, Team: Aston Villa, Mean Value: 58.80
+Statistic: Penalty_Save%, Team: Everton, Mean Value: 100.00
